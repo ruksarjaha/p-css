@@ -1,5 +1,11 @@
+*{
+    background-color: midnightblue;
+}
 h1
 {
+    font-style: italic;
+    font-size: 25px;
+    font-family: cursive;
     color: floralwhite;
     background-color: midnightblue;
 }
